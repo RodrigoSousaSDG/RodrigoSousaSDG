@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 😎 sou Rodrigo Sousa
+ Sou um programador front end, e atualmente estou aprendendo e criando projetos com:
 
 <!--
 **RodrigoSousaSDG/RodrigoSousaSDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
